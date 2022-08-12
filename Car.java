@@ -28,7 +28,7 @@ class Car {
         if(passenger == 4){
             this.passegenger = passenger;
         }else{
-            System.out.println("Necesitas asignar 4 pasajeros");
+            System.out.println("Necesitas asignar 5 pasajeros");
         }
     }
 
